@@ -16,7 +16,3 @@ Guess the hidden word one letter at a time — but be careful, too many wrong gu
 ## 🛠️ Installation & Setup
 
 ### 1. Install Raylib
-Make sure you have **Raylib** installed on your system.  
-On Ubuntu/Debian:
-```bash
-sudo apt install libraylib-dev
